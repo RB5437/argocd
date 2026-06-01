@@ -134,13 +134,13 @@ Instead of using my image directly, you will **pull it and re-push it to your ow
 2. Pull my base image:
 
    ```bash
-   docker pull amitabhdevops/chai-devops:latest
+   docker pull ritik2909/chai-devops:latest
    ```
 
 3. Tag it with your own Docker Hub username:
 
    ```bash
-   docker tag amitabhdevops/chai-devops:latest <your-dockerhub-username>/chai-devops:v1.0.0
+   docker tag ritik2909/chai-devops:latest <your-dockerhub-username>/chai-devops:v1.0.0
    ```
 
 4. Push it to your account:
