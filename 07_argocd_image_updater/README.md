@@ -155,9 +155,9 @@ Now you own a copy of the demo image and can push new versions under your accoun
 >
 > Update image in your `deployment` of chai-app:
 > 
-> 1. Open that forked & clonned repo of this repo `https://github.com/Amitabh-DevOps/argocd-demos.git`.
+> 1. Open that forked & clonned repo of this repo `https://github.com/rb5437/argocd-demos.git`.
 > 2. Navigate to `image_updater/chai-app/deployment.yml`.
-> 3. Update image from `amitabhdevops/chai-devops:v1.0.0` to `<your-dockerhub-username>/chai-devops:v1.0.0`. Here:
+> 3. Update image from `ritik2909/chai-devops:v1.0.0` to `<your-dockerhub-username>/chai-devops:v1.0.0`. Here:
 >
 >     ![alt text](output_images/image-3.png)
 >
