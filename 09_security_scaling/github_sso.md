@@ -1,7 +1,7 @@
 ## 3. SSO with Dex / OIDC
 
 ### Why SSO?
-
+- **Single sign on**
 - **Centralized authentication** using corporate accounts
 - **No separate credentials** to manage
 - **Better security** and compliance
